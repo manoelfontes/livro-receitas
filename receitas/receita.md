@@ -10,4 +10,7 @@ _italico_
 
  - []atividade 1
  - []atividade 2
- - []atividade 3 
+
+
+_** Preparando uma nova alteração direto da Visual Studio Code**_
+ Amando!!!
